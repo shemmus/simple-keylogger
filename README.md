@@ -18,7 +18,7 @@ This script is intended for educational purposes only. Do not use it on any comp
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/AhmetGultekin0/simple-keylogger.git](https://github.com/AhmetGultekin0/simple-keylogger.git)
+    git clone [https://github.com/shemmus/simple-keylogger.git](https://github.com/shemmus/simple-keylogger.git)
     ```
 
 2.  **Navigate to the directory:**
